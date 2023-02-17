@@ -12,5 +12,7 @@ We also have a data directory where we store the data we retrieve because it's a
     2) We use the spotify api to enrich our songs dataset with more information
 
     3) We will clean the data, remove duplicates, etc.
+    
+    4) We visualize and explore the data to get a better understanding.
 
-    4) We will create prediction models and rate them to try and predict what song will be a 'Hit'
+    5) We will create prediction models and rate them to try and predict what song will be a 'Hit'
